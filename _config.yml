@@ -25,8 +25,8 @@ email: joviantechlabs@gmail.com
 description: >-
   Jovian Tech Labs explores what's possible. We build websites, applications,
   e-commerce platforms, and AI-powered solutions. Expect the Unthinkable.
-baseurl: "https://www.joviantechlabs.com"
-url: ""
+baseurl: ""
+url: "https://www.joviantechlabs.com"
 twitter_username: joviantechlabs
 github_username: joviantechlabs
 
